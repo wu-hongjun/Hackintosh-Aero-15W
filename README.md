@@ -18,10 +18,7 @@ Audio Swich: OK
 ------------------------------------------------------------------------
 I will keep update this branch as long as I made progress.
 ------------------------------------------------------------------------
-A version of config for 10.12.6 is avaliable at /CLOVER/10.12.6/Downloads
-------------------------------------------------------------------------
-Hackintosh config for 10.13.1 is COMPLETE. 
-There is a zip file to downolad at /CLOVER/10.13.1/Downloads for anyone to download.
+Hackintosh config for 10.13.1 is COMPLETE. See EFI folder at 10.13.1.
 Unless otherwise noted, this is the current version to use.
 ------------------------------------------------------------------------
 ---------------------------Errrneist.-----------------------------------
