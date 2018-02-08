@@ -21,5 +21,6 @@ I will keep update this branch as long as I made progress.
 Hackintosh config for 10.13.1 is COMPLETE. See EFI folder at 10.13.1.
 Unless otherwise noted, this is the current version to use.
 ------------------------------------------------------------------------
+https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/
 ---------------------------Errrneist.-----------------------------------
 ------------------------------------------------------------------------
