@@ -1,7 +1,7 @@
 # Aero-15-Hackintosh
-Hackintosh files for Gigabyte Aero15W.
+3 Hackintosh files for Gigabyte Aero15W.
 ------------------------------------------------------------------------
-Thanks for RehabMan who contributed hugely to this project!
+# Thanks for RehabMan who contributed hugely to this project!
 ------------------------------------------------------------------------
 CPU: i7-7700HQ @2.8GHz
 GPU: HD630
@@ -16,11 +16,11 @@ Audio: OK
 Microphone: OK
 Audio Swich: OK
 ------------------------------------------------------------------------
-I will keep update this branch as long as I made progress.
+# I will keep update this branch as long as I made progress.
 ------------------------------------------------------------------------
 Hackintosh config for 10.13.1 is COMPLETE. See EFI folder at 10.13.1.
 Unless otherwise noted, this is the current version to use.
-I am happy with 10.13.1. So I probably won't update this page much.
+# I am happy with 10.13.1. So I probably won't update this page much.
 ------------------------------------------------------------------------
 https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/
 
