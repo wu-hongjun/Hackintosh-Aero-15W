@@ -18,4 +18,4 @@ Unless otherwise noted, this is the current version to use.
 ## I am happy with 10.13.1. So I probably won't update this page much.
 https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/
 
-##--Errrneist.
+## --Errrneist.
