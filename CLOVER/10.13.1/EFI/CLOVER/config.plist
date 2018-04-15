@@ -619,6 +619,20 @@
 				AQAA6xc=
 				</data>
 			</dict>
+			<dict>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				SIXAdAeAiyA=
+				</data>
+				<key>Name</key>
+				<string>AirportBrcm4360</string>
+				<key>Replace</key>
+				<data>
+				SIXAZpCAiyA=
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>RtVariables</key>
