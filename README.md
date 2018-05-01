@@ -1,5 +1,6 @@
 # Aero-15-Hackintosh
 ### Thanks for [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/) who contributed a huge part of this project!
+#### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 * Hackintosh files for Gigabyte Aero15W.
 * CPU: i7-7700HQ @2.8GHz
 * GPU: HD630
