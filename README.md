@@ -7,6 +7,7 @@
 ### Quick Link
 * [10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
 * [10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
+* [Link to TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
 ### Specs
 * CPU: i7-7700HQ @2.8GHz
 * GPU: HD630
@@ -24,7 +25,6 @@
 * Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. See EFI folder at 10.13.1.
 * Unless otherwise noted, this is the current version to use.
 * I am happy with 10.13.1. So I probably won't update this page much.
-* [Link to TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
 ### 
 ### Best,
 ### Errrneist.
