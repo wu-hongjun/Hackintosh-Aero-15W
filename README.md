@@ -6,7 +6,6 @@
 * [10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
 * [10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
 ### Specs
-* Hackintosh files for Gigabyte Aero15W.
 * CPU: i7-7700HQ @2.8GHz
 * GPU: HD630
 * Wifi: BCM94360BAED
