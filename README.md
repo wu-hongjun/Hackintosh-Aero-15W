@@ -1,5 +1,5 @@
 # Hackintosh Configuration for Gigabyte Aero 15W
-### Don't forget to star or fork this project if you like it!
+#### Don't forget to star or fork this project if you like it!
 ## Special Thanks
 * [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
 ## Main Information
