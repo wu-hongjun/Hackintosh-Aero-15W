@@ -1,4 +1,4 @@
-# Hackintosh files for Gigabyte Aero 15W
+# Hackintosh Configuration for Gigabyte Aero 15W
 ### Thanks for [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/) who contributed a huge part of this project!
 #### OH! Don't forget to star or fork this project if you like it!
 #### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
