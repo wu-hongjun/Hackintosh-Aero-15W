@@ -3,7 +3,7 @@
 ## Special Thanks
 * [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
 ## Main Information
-#### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
+### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 ### Quick Link
 * [10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
 * [10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
