@@ -3,8 +3,8 @@
 #### OH! Don't forget to star or fork this project if you like it!
 #### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 ### Quick Link
-[10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
-[10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
+* [10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
+* [10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
 ### Specs
 * Hackintosh files for Gigabyte Aero15W.
 * CPU: i7-7700HQ @2.8GHz
