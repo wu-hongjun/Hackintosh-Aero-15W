@@ -1,7 +1,7 @@
 # Hackintosh Configuration for Gigabyte Aero 15W
 #### Don't forget to star this project if you like it!
 #### Fork the project to your own repo and clone it to your machine to make changes.
-#### ACPI files are unique, so I strongly recommend you configure your own DSDT is mine doesn't work.
+#### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 ## Special Thanks
 * [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
 ## Main Information
@@ -9,7 +9,11 @@
 ### Quick Link
 * [10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
 * [10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
-* [Link to TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
+### Guide Link
+* [Link to this post in TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
+* [How to install via UniBeast](https://www.tonymacx86.com/threads/unibeast-install-macos-high-sierra-on-any-supported-intel-based-pc.235474/)
+* [Patch Laptop DSDT and ACPI files](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
+* [Common problems in 10.13 High Sirra](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582/)
 ### Announcements
 * Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. See EFI folder at 10.13.1.
 * Unless otherwise noted, this is the current version to use.
