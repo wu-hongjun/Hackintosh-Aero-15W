@@ -3,6 +3,14 @@
 #### Fork the project to your own repository and clone it to your machine to make changes.
 #### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 
+
+## Special Thanks
+#### Individual
+* [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
+#### Organization
+* [TonyMacX86](https://www.tonymacx86.com)
+* [PCBeta](http://bbs.pcbeta.com/forum-558-1.html)
+
 ## Main Information
 ### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 ### Quick Link
@@ -38,13 +46,6 @@
 * USB 3.0 bus: OK
 * Backlight Control: OK
 * Airdrop: OK
-
-## Special Thanks
-#### Individual
-* [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
-#### Organization
-* [TonyMacX86](https://www.tonymacx86.com)
-* [PCBeta](http://bbs.pcbeta.com/forum-558-1.html)
 
 ### 
 ### Best,
