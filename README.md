@@ -1,5 +1,7 @@
 # Hackintosh Configuration for Gigabyte Aero 15W
-#### Don't forget to star or fork this project if you like it!
+#### Don't forget to star this project if you like it!
+#### Fork the project to your own repo and clone it to your machine to make changes.
+#### ACPI files are unique, so I strongly recommend you configure your own DSDT is mine doesn't work.
 ## Special Thanks
 * [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
 ## Main Information
