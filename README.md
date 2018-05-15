@@ -17,9 +17,10 @@
 * [Patch Laptop DSDT and ACPI Files for Post Installation](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
 
 ### Announcements
-* Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. See EFI folder at 10.13.1.
+* Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. 
+* Links above in the *Quick Link* section will navigate you to different macOS versions.
 * Unless otherwise noted, this is the current version to use.
-* I am happy with 10.13.1. So I probably won't update this page much.
+
 ### Specs
 * CPU: i7-7700HQ @2.8GHz
 * GPU: HD630
