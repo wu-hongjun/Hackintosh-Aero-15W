@@ -11,9 +11,11 @@
 * [10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
 ### Guide Link
 * [Link to this post in TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
+* [macOS 10.13 High Sirra General Laptop Support](https://www.tonymacx86.com/forums/high-sierra-laptop-support.192/)
+* [macOS 10.13 High Sirra Common Problems](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582/)
 * [How to install via UniBeast](https://www.tonymacx86.com/threads/unibeast-install-macos-high-sierra-on-any-supported-intel-based-pc.235474/)
 * [Patch Laptop DSDT and ACPI files](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
-* [Common problems in 10.13 High Sirra](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582/)
+
 ### Announcements
 * Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. See EFI folder at 10.13.1.
 * Unless otherwise noted, this is the current version to use.
