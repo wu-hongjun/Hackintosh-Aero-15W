@@ -11,8 +11,8 @@
 ## Main Information
 ### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
 ### Quick Link
-* [10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
-* [10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
+* [macOS 10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
+* [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
 ### Guide Link
 * [Link to this post in TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
 * [macOS 10.13 High Sirra General Laptop Support](https://www.tonymacx86.com/forums/high-sierra-laptop-support.192/)
