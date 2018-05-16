@@ -3,7 +3,7 @@
 #### Fork the project to your own repository and clone it to your machine to make changes.
 #### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 #### Or, if you want to download the EFI files just to try, you can check out the [Release](https://github.com/Errrneist/Hackintosh-Aero-15W/releases).
-#### If you are interested in the theme I used, check it out over [Here](https://github.com/Errrneist/Hackintosh-Minimalism)
+#### Or, if you are interested in the theme I used, check it out over [Here](https://github.com/Errrneist/Hackintosh-Minimalism).
 
 
 ## Special Thanks
