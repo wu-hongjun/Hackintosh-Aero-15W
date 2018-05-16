@@ -36,7 +36,7 @@
 * Screen: 15' FHD 
 * SSD1: Liteon SATA SSD 512GB (macOS)
 * SSD2: Toshiba NVMe SSD XG3 1TB (Windows)
-* SDXC: Samsung EVO Select 128GB select (Ubuntu)
+* SDXC: Samsung EVO Select 128GB (Ubuntu)
 * Ethernet: Intel Mausi Ethernet Controller
 * WebCamera: OK
 * Audio: OK
