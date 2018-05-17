@@ -33,7 +33,7 @@
 ### Specs
 * CPU: Intel Core i7-7700HQ 4C8T @2.8GHz
 * GPU: HD630 + NVIDIA GTX 1060 (Disabled)
-* <span style="color:red">Wifi: BCM943602BAED</span>
+* <span style="color:red"> Wifi: BCM943602BAED </span>
 * RAM: 16GB DDR4 2400MHZ SODIMM
 * Screen: 15' FHD 
 * SSD1: Liteon SATA SSD 512GB (macOS)
