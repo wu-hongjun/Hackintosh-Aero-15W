@@ -14,7 +14,7 @@
 * [PCBeta](http://bbs.pcbeta.com/forum-558-1.html)
 
 ## Main Information
-#### Developer: [Hongjun Wu](https://www.tonymacx86.com/members/errrneist.1550861/)
+#### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
 ### Quick Link
 * [macOS 10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
 * [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
