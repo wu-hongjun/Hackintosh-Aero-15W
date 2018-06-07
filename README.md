@@ -6,7 +6,7 @@
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
 
 ## News
-* macOS 10.14 Mojave is coming soon! The official release is this fall. Can't wait to see it happen!
+* macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
 ## Special Thanks
 #### Individual
 * [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
