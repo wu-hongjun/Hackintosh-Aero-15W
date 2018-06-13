@@ -31,6 +31,7 @@
 * Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. 
 * Links above in the *Quick Link* section will navigate you to different macOS versions.
 * Unless otherwise noted, this is the current version to use.
+* Although I recommend too mount the EFI partition using clover convigurator, but if you cannot do it, here is a *[Guide for mounting EFI using terminal](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 
 ### Specs
 * CPU: Intel Core i7-7700HQ 4C8T @2.8GHz
