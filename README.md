@@ -1,11 +1,12 @@
 # Hackintosh Configuration for Gigabyte Aero 15W
 #### Don't forget to star this project if you like it!
-#### Fork the project to your own repository and clone it to your machine to make changes.
+#### *FORK* the project to your own repository and clone it to your machine to make changes.
 #### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 #### Or, if you want to download the EFI files just to try, you can check out the [Configuration Release](https://github.com/Errrneist/Hackintosh-Aero-15W/releases).
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
 
-
+## News
+* macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
 ## Special Thanks
 #### Individual
 * [RehabMan](https://www.tonymacx86.com/members/rehabman.429483/)
