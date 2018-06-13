@@ -48,5 +48,4 @@
 * Backlight Control: OK
 * Airdrop: OK
  
-#### Best,
-#### Errrneist.
+### Best, Errrneist.
