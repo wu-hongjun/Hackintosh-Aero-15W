@@ -5,7 +5,11 @@
 #### Or, if you want to download the EFI files just to try, you can check out the [Configuration Release](https://github.com/Errrneist/Hackintosh-Aero-15W/releases).
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
 
-## News
+## Announcements
+* Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. 
+* Links above in the *Quick Link* section will navigate you to different macOS versions.
+* Unless otherwise noted, this is the current version to use.
+* If you cannot mount EFI via a tool, then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
 ## Special Thanks
 #### Individual
@@ -25,13 +29,6 @@
 * [Patch Laptop DSDT and ACPI Files for Post Installation](https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
 * [macOS 10.13 High Sirra General Laptop Support](https://www.tonymacx86.com/forums/high-sierra-laptop-support.192/)
 * [macOS 10.13 High Sirra Common Problems](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582/)
-
-
-### Announcements
-* Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. 
-* Links above in the *Quick Link* section will navigate you to different macOS versions.
-* Unless otherwise noted, this is the current version to use.
-* If you cannot mount EFI via a tool, then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 
 ### Specs
 * CPU: Intel Core i7-7700HQ 4C8T @2.8GHz
