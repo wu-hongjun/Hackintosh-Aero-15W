@@ -5,7 +5,9 @@
 #### If you want to download the EFI files to try, you can check out the [Configuration Release](https://github.com/Errrneist/Hackintosh-Aero-15W/releases).
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
 
-## Announcements
+## Announcements 
+* I directed upgraded to 10.13.5 by downloading the full installer from App Store. Safe to upgrade! 
+* Will post a updated clover version soon.
 * Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. 
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
 * If you cannot mount EFI via a tool, then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
@@ -22,6 +24,7 @@
 ### Quick Link
 * [macOS 10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
 * [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
+* I did a direct upgrade using full image from app store to 10.13.5 and it works perfectly fine. Safe to upgrade!
 ### Guide Link
 * [Link to this post in TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
 * [How to install macOS via UniBeast](https://www.tonymacx86.com/threads/unibeast-install-macos-high-sierra-on-any-supported-intel-based-pc.235474/)
