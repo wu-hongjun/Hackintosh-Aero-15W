@@ -6,9 +6,6 @@
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
 
 ## Announcements 
-* I directed upgraded to 10.13.5 by downloading the full installer from App Store. Safe to upgrade! 
-* Will post a updated clover version soon.
-* Hackintosh config for 10.13.1 and 10.12.6 is COMPLETE. 
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
 * If you cannot mount EFI via a tool, then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
@@ -22,9 +19,9 @@
 ## Main Information
 #### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
 ### Quick Link
-* [macOS 10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.12.6)
-* [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/tree/master/CLOVER/10.13.1)
-* I did a direct upgrade using full image from app store to 10.13.5 and it works perfectly fine. Safe to upgrade!
+* [macOS 10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.12.6)
+* [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.13.1)
+* [macOS 10.13.5](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.13.5)
 ### Guide Link
 * [Link to this post in TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-hackintosh-10-13-1.245289/)
 * [How to install macOS via UniBeast](https://www.tonymacx86.com/threads/unibeast-install-macos-high-sierra-on-any-supported-intel-based-pc.235474/)
