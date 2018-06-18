@@ -72,8 +72,6 @@
 				<true/>
 				<key>FixHPET</key>
 				<true/>
-				<key>FixHeaders</key>
-				<true/>
 				<key>FixIDE</key>
 				<true/>
 				<key>FixIPIC</key>
@@ -286,6 +284,8 @@
 				<string>xh_rvp10</string>
 			</dict>
 		</array>
+		<key>FixHeaders</key>
+		<true/>
 		<key>SSDT</key>
 		<dict>
 			<key>DropOem</key>
@@ -419,7 +419,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<string>13</string>
+			<integer>3</integer>
 		</dict>
 		<key>FakeID</key>
 		<dict>
@@ -564,6 +564,8 @@
 				<data>
 				AAAIAAIAAACYAAAAAQUJAAAEAAA=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
@@ -580,6 +582,8 @@
 				<data>
 				SIXAdFwPt0g=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>IOBluetoothFamily</string>
 				<key>Replace</key>
@@ -594,13 +598,15 @@
 				<false/>
 				<key>Find</key>
 				<data>
-				g710////EA==
+				g72M/v//EA==
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>AppleUSBXHCIPCI</string>
 				<key>Replace</key>
 				<data>
-				g710////Gw==
+				g72M/v//Gw==
 				</data>
 			</dict>
 			<dict>
@@ -612,6 +618,8 @@
 				<data>
 				AQAAdRc=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>IOGraphicsFamily</string>
 				<key>Replace</key>
@@ -621,16 +629,36 @@
 			</dict>
 			<dict>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				SIXAdAeAiyA=
 				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>AirportBrcm4360</string>
 				<key>Replace</key>
 				<data>
 				SIXAZpCAiyA=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>BCM4352-fvco, (credit Sherlocks based on the-darkvoid original)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				gf9SqgAAdMQ=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AirPort.BrcmNIC-MFG</string>
+				<key>Replace</key>
+				<data>
+				gf9SqgAAZpA=
 				</data>
 			</dict>
 		</array>
@@ -696,7 +724,7 @@
 		<key>CustomUUID</key>
 		<string>48473542-3037-3030-3234-350000000000</string>
 		<key>InjectKexts</key>
-		<string>Detect</string>
+		<string>Yes</string>
 		<key>InjectSystemID</key>
 		<true/>
 	</dict>
