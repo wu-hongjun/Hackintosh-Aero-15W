@@ -6,6 +6,7 @@
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
 
 ## Announcements 
+#### *Current Clover Version of the Project: 4542*
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
 * If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
@@ -24,7 +25,6 @@
 * [macOS 10.13 High Sirra Common Problems](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582/)
 
 ### Specs
-* *Current Clover Version: 4542*
 * CPU: Intel Core i7-7700HQ 4C8T @2.8GHz
 * GPU: HD630 + NVIDIA GTX 1060 (Disabled)
 * <span style="color:red"> Wifi: BCM943602BAED </span>
