@@ -24,6 +24,7 @@
 * [macOS 10.13 High Sirra Common Problems](https://www.tonymacx86.com/threads/readme-common-problems-in-10-13-high-sierra.233582/)
 
 ### Specs
+* *Current clover Version: 4542*
 * CPU: Intel Core i7-7700HQ 4C8T @2.8GHz
 * GPU: HD630 + NVIDIA GTX 1060 (Disabled)
 * <span style="color:red"> Wifi: BCM943602BAED </span>
