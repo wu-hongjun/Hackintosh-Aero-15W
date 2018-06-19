@@ -34,6 +34,7 @@
 * SSD2: Toshiba NVMe SSD XG3 1TB (Windows)
 * SDXC: Samsung EVO Select 128GB (Ubuntu)
 * Ethernet: Intel Mausi Ethernet Controller
+* BlueTooth: OK
 * WebCamera: OK
 * Audio: OK
 * Microphone: OK
