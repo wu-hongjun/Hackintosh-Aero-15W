@@ -7,6 +7,7 @@
 
 ## Announcements 
 #### *Current Clover Version of the Project: 4542*
+#### *Current macOS Version of the Project: 10.13.5*
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
 * If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
