@@ -10,6 +10,7 @@
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
 * If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
+* Therefore, macOS 10.13.6 is very unlikely to be supported. Instead, I will add macOS 10.14 support in the future.
 
 ## Main Information
 #### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
