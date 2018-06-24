@@ -49,13 +49,13 @@
 				<key>AddIMEI</key>
 				<true/>
 				<key>AddMCHC</key>
-				<false/>
+				<true/>
 				<key>AddPNLF</key>
 				<true/>
 				<key>DeleteUnused</key>
 				<true/>
 				<key>FakeLPC</key>
-				<false/>
+				<true/>
 				<key>FixACST</key>
 				<true/>
 				<key>FixADP1</key>
@@ -63,19 +63,19 @@
 				<key>FixAirport</key>
 				<true/>
 				<key>FixDarwin</key>
-				<false/>
+				<true/>
 				<key>FixDisplay</key>
 				<true/>
 				<key>FixFirewire</key>
 				<true/>
 				<key>FixHDA</key>
-				<false/>
+				<true/>
 				<key>FixHPET</key>
-				<false/>
+				<true/>
 				<key>FixIDE</key>
-				<false/>
+				<true/>
 				<key>FixIPIC</key>
-				<false/>
+				<true/>
 				<key>FixIntelGfx</key>
 				<true/>
 				<key>FixLAN</key>
@@ -87,11 +87,11 @@
 				<key>FixS3D</key>
 				<true/>
 				<key>FixSATA</key>
-				<false/>
+				<true/>
 				<key>FixSBUS</key>
 				<true/>
 				<key>FixShutdown</key>
-				<false/>
+				<true/>
 				<key>FixUSB</key>
 				<true/>
 			</dict>
