@@ -1,0 +1,230 @@
+## Full Spec in System Information
+Model Name:	MacBook Pro
+  Model Identifier:	MacBookPro14,3
+  Processor Name:	Intel Core i7
+  Processor Speed:	2.81 GHz
+  Number of Processors:	1
+  Total Number of Cores:	4
+  L2 Cache (per Core):	256 KB
+  L3 Cache:	6 MB
+  Memory:	16 GB
+  Boot ROM Version:	MBP143.0175.B00
+  SMC Version (system):	2.45f0
+  Serial Number (system):	[---NOT SHOWN---]
+  Hardware UUID:	[---NOT SHOWN---]
+Apple Bluetooth Software Version:	6.0.6f2
+  Hardware, Features, and Settings:
+  Name:	Hongjun’s MacBook Pro
+  Address:	[---NOT SHOWN---]
+  Bluetooth Low Energy Supported:	Yes
+  Handoff Supported:	Yes
+  Instant Hot Spot Supported:	Yes
+  Manufacturer:	Broadcom
+  Transport:	USB
+  Chipset:	20703A1
+  Firmware Version:	v5 c4518
+  Bluetooth Power:	On
+  Discoverable:	Off
+  Connectable:	Yes
+  Auto Seek Pointing:	On
+  Remote wake:	On
+  Vendor ID:	0x0A5C
+  Product ID:	0x6410
+  HCI Version:	4.1 (0x7)
+  HCI Revision:	0x11A6
+  LMP Version:	4.1 (0x7)
+  LMP Subversion:	0x2105
+  Device Type (Major):	Computer
+  Device Type (Complete):	Mac Portable
+  Composite Class Of Device:	0x38010C
+  Device Class (Major):	0x01
+  Device Class (Minor):	0x03
+  Service Class:	0x1C0
+  Auto Seek Keyboard:	On
+  Services:
+  Bluetooth File Transfer:
+  Folder other devices can browse:	~/Public
+  When receiving items:	Accept all without warning
+  State:	Disabled
+  Bluetooth File Exchange:
+  Folder for accepted items:	~/Downloads
+  When other items are accepted:	Save to location
+  When receiving items:	Accept all without warning
+  State:	Disabled
+  Bluetooth Internet Sharing:
+  State:	Disabled
+  Incoming Serial Ports:
+  Bluetooth-Incoming-Port:
+  RFCOMM Channel:	3
+  Requires Authentication:	No
+HD WebCam:
+  Model ID:	UVC Camera VendorID_7119 ProductID_11371
+  Unique ID:	[---NOT SHOWN---]
+Intel HD Graphics 630:
+  Chipset Model:	Intel HD Graphics 630
+  Type:	GPU
+  Bus:	Built-In
+  VRAM (Dynamic, Max):	1536 MB
+  Vendor:	Intel
+  Device ID:	0x1916
+  Revision ID:	0x0004
+  Metal:	Supported, feature set macOS GPUFamily1 v3
+  Displays:
+Display:
+  Resolution:	1920 x 1080 (1080p FHD - Full High Definition)
+  UI Looks like:	1920 x 1080
+  Framebuffer Depth:	24-Bit Color (ARGB8888)
+  Main Display:	Yes
+  Mirror:	Off
+  Online:	Yes
+  Rotation:	Supported
+  Automatically Adjust Brightness:	No
+  Connection Type:	DisplayPort
+Memory Slots:
+  ECC:	Disabled
+  Upgradeable Memory:	No
+BANK 0/DIMM2:
+  Size:	16 GB
+  Type:	DDR4
+  Speed:	2400 MHz
+  Status:	OK
+  Manufacturer:	Crucial Technology
+  Part Number:	CT16G4SFD824A.C16FBD
+  Serial Number:	[---NOT SHOWN---]
+Apple SSD Controller:
+THNSN51T02DU7 NVMe TOSHIBA 1024GB:
+  Capacity:	1.02 TB (1,024,209,543,168 bytes)
+  TRIM Support:	Yes
+  Model:	THNSN51T02DU7 NVMe TOSHIBA 1024GB
+  Revision:	57DA4103
+  Serial Number:	        [---NOT SHOWN---]
+  Link Width:	x4
+  Link Speed:	8.0 GT/s
+  Detachable Drive:	No
+  BSD Name:	disk1
+  Partition Map Type:	GPT (GUID Partition Table)
+  Removable Media:	No
+  Volumes:
+EFI:
+  Capacity:	629.1 MB (629,144,064 bytes)
+  File System:	MS-DOS FAT32
+  BSD Name:	disk1s1
+  Content:	EFI
+  Volume UUID:	[---NOT SHOWN---]
+Windows:
+  Capacity:	1.02 TB (1,022,625,189,888 bytes)
+  Available:	69.5 GB (69,504,200,704 bytes)
+  Writable:	Yes
+  File System:	Tuxera NTFS
+  BSD Name:	disk1s2
+  Mount Point:	/Volumes/Windows
+  Content:	Microsoft Basic Data
+disk1s3:
+  Capacity:	946.9 MB (946,864,128 bytes)
+  BSD Name:	disk1s3
+  Content:	Windows Recovery
+Realtek 8168/8101E Gigabit Ethernet:
+  Name:	ethernet
+  Type:	Ethernet Controller
+  Driver Installed:	No
+  MSI:	No
+  Bus:	PCI
+  Slot:	Ethernet
+  Vendor ID:	0x10ec
+  Device ID:	0x8168
+  Subsystem Vendor ID:	0x1458
+  Subsystem ID:	0x1650
+  Revision ID:	0x0016
+  Link Width:	x1
+  Link Speed:	2.5 GT/s
+Battery Information:
+  Model Information:
+  Serial Number:	Aero 15-Unknown
+  Manufacturer:	GIGABYTE
+  Device Name:	Aero 15
+  Charge Information:
+  The battery’s charge is below the critical level.:	No
+  The battery’s charge is below the warning level.:	No
+  Charge Remaining (mAh):	6200
+  Fully Charged:	Yes
+  Charging:	No
+  Full Charge Capacity (mAh):	6200
+  Battery Installed:	Yes
+  Amperage (mA):	0
+  Voltage (mV):	16701
+System Power Settings:
+  AC Power:
+  System Sleep Timer (Minutes):	0
+  Disk Sleep Timer (Minutes):	0
+  Display Sleep Timer (Minutes):	0
+  Wake on LAN:	Yes
+  AutoPowerOff Delay:	28800
+  AutoPowerOff Enabled:	1
+  Current Power Source:	Yes
+  DarkWakeBackgroundTasks:	0
+  Display Sleep Uses Dim:	Yes
+  GPUSwitch:	2
+  Hibernate Mode:	3
+  PrioritizeNetworkReachabilityOverSleep:	0
+  Standby Delay:	10800
+  Standby Enabled:	1
+  TCPKeepAlivePref:	1
+  Battery Power:
+  System Sleep Timer (Minutes):	1
+  Disk Sleep Timer (Minutes):	10
+  Display Sleep Timer (Minutes):	2
+  AutoPowerOff Delay:	28800
+  AutoPowerOff Enabled:	1
+  DarkWakeBackgroundTasks:	0
+  Display Sleep Uses Dim:	Yes
+  GPUSwitch:	2
+  Hibernate Mode:	3
+  Reduce Brightness:	No
+  Standby Delay:	10800
+  Standby Enabled:	1
+  TCPKeepAlivePref:	1
+Hardware Configuration:
+  UPS Installed:	No
+AC Charger Information:
+  Connected:	Yes
+  ID:	0x07a1
+  Wattage (W):	45
+  Family:	0x0085
+  Serial Number:	[---NOT SHOWN---]
+  Charging:	No
+Generic AHCI Controller:
+
+  Vendor:	Generic
+  Product:	AHCI Controller
+  Link Speed:	6 Gigabit
+  Negotiated Link Speed:	6 Gigabit
+  Physical Interconnect:	SATA
+  Description:	AHCI Version 1.31 Supported
+LITEON CV1-8B512:
+  Capacity:	512.11 GB (512,110,190,592 bytes)
+  Model:	LITEON CV1-8B512                        
+  Revision:	G890109 
+  Serial Number:	[---NOT SHOWN---]       
+  Native Command Queuing:	Yes
+  Queue Depth:	32
+  Removable Media:	No
+  Detachable Drive:	No
+  BSD Name:	disk0
+  Medium Type:	Solid State
+  TRIM Support:	No
+  Partition Map Type:	GPT (GUID Partition Table)
+  S.M.A.R.T. status:	Verified
+  Volumes:
+disk0s1:
+  Capacity:	209.7 MB (209,715,200 bytes)
+  BSD Name:	disk0s1
+  Content:	[---NOT SHOWN---]
+disk0s2:
+  Capacity:	511.9 GB (511,900,434,432 bytes)
+  BSD Name:	disk0s2
+  Content:	Apple_APFS
+USB 3.0 Bus:
+  Host Controller Driver:	AppleUSBXHCISPT
+  PCI Device ID:	0xa12f 
+  PCI Revision ID:	0x0031 
+  PCI Vendor ID:	0x8086 
