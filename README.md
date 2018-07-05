@@ -4,6 +4,7 @@
 #### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 #### If you want to download the EFI files to try, you can check out the [Configuration Release](https://github.com/Errrneist/Hackintosh-Aero-15W/releases).
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
+#### Or, if you want to see how it looks like in System Information, you can check it out [here](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/SystemInfo.txt).
 
 ## Announcements 
 #### *Current Clover Version of the Project: 4558*
