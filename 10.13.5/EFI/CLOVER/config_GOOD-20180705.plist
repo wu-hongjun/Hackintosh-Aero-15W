@@ -49,13 +49,13 @@
 				<key>AddIMEI</key>
 				<true/>
 				<key>AddMCHC</key>
-				<false/>
+				<true/>
 				<key>AddPNLF</key>
 				<true/>
 				<key>DeleteUnused</key>
 				<true/>
 				<key>FakeLPC</key>
-				<false/>
+				<true/>
 				<key>FixACST</key>
 				<true/>
 				<key>FixADP1</key>
@@ -63,19 +63,19 @@
 				<key>FixAirport</key>
 				<true/>
 				<key>FixDarwin</key>
-				<false/>
+				<true/>
 				<key>FixDisplay</key>
 				<true/>
 				<key>FixFirewire</key>
 				<true/>
 				<key>FixHDA</key>
-				<false/>
+				<true/>
 				<key>FixHPET</key>
-				<false/>
+				<true/>
 				<key>FixIDE</key>
-				<false/>
+				<true/>
 				<key>FixIPIC</key>
-				<false/>
+				<true/>
 				<key>FixIntelGfx</key>
 				<true/>
 				<key>FixLAN</key>
@@ -87,15 +87,13 @@
 				<key>FixS3D</key>
 				<true/>
 				<key>FixSATA</key>
-				<false/>
+				<true/>
 				<key>FixSBUS</key>
 				<true/>
 				<key>FixShutdown</key>
-				<false/>
-				<key>FixTMR</key>
 				<true/>
 				<key>FixUSB</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>Patches</key>
 			<array>
@@ -268,8 +266,6 @@
 					</data>
 				</dict>
 			</array>
-			<key>SlpSmiAtWake</key>
-			<true/>
 		</dict>
 		<key>DropTables</key>
 		<array>
@@ -307,18 +303,18 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 kext-dev-mode=1</string>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
-		<key>NeverHibernate</key>
+		<string>Macintosh</string>
+		<key>HibernationFixup</key>
 		<true/>
+		<key>NeverHibernate</key>
+		<false/>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>-1</integer>
 		<key>XMPDetection</key>
-		<false/>
+		<string>Yes</string>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -437,6 +433,8 @@
 			<key>AddClockID</key>
 			<true/>
 			<key>FixOwnership</key>
+			<true/>
+			<key>HighCurrent</key>
 			<true/>
 			<key>Inject</key>
 			<true/>
@@ -563,7 +561,7 @@
 				<key>Comment</key>
 				<string>eDP, port 0000, 0x191e0000, 0x19160000, 0x19260000, 0x19270000, 0x191b0000, 0x19160002, 0x19260002, 0x191e0003, 0x19260004, 0x19270004, 0x193b0005 credit syscl</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				AAAIAAIAAACYAAAAAQUJAAAEAAA=

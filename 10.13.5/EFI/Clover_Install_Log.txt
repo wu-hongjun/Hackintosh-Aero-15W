@@ -1,6 +1,6 @@
 
-Clover EFI installer log - Mon Jun 25 08:00:22 JST 2018
-Installer version: v2.4k r4558 EFI bootloader
+Clover EFI installer log - Sun Jun 17 08:37:59 JST 2018
+Installer version: v2.4k r4542 EFI bootloader
 ======================================================
 /dev/disk0 (internal, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
@@ -19,8 +19,8 @@ Installer version: v2.4k r4558 EFI bootloader
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +511.9 GB   disk2
                                  Physical Store disk0s2
-   1:                APFS Volume Macintosh               270.2 GB   disk2s1
-   2:                APFS Volume Preboot                 22.2 MB    disk2s2
+   1:                APFS Volume Macintosh               334.4 GB   disk2s1
+   2:                APFS Volume Preboot                 21.5 MB    disk2s2
    3:                APFS Volume Recovery                518.1 MB   disk2s3
    4:                APFS Volume VM                      1.1 GB     disk2s4
 
@@ -28,8 +28,7 @@ Target volume /Volumes/Macintosh on disk2 is APFS on physical store disk0s2
 ======================================================
 Backing up EFI files
 
-Backing up stage2 file /Volumes/Macintosh/EFIROOTDIR/boot  to /Volumes/Macintosh/EFI-Backups/r4542/2018-06-25-08h00/boot
-Backing up /Volumes/Macintosh/EFIROOTDIR/EFI folder to /Volumes/Macintosh/EFI-Backups/r4542/2018-06-25-08h00/EFI
+Backing up /Volumes/Macintosh/EFIROOTDIR/EFI folder to /Volumes/Macintosh/EFI-Backups/r4369/2018-06-17-08h38/EFI
 ======================================================
 Installing BootSectors/BootLoader
 
