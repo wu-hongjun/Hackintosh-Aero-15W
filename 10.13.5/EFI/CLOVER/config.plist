@@ -45,7 +45,7 @@
 				<key>AddDTGP</key>
 				<true/>
 				<key>AddHDMI</key>
-				<true/>
+				<false/>
 				<key>AddIMEI</key>
 				<true/>
 				<key>AddMCHC</key>
@@ -69,7 +69,7 @@
 				<key>FixFirewire</key>
 				<true/>
 				<key>FixHDA</key>
-				<true/>
+				<false/>
 				<key>FixHPET</key>
 				<true/>
 				<key>FixIDE</key>
