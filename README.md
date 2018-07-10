@@ -13,6 +13,9 @@
 * If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
 * Therefore, it is unlikely that I will support macOS 10.13.6. Instead, I will add macOS 10.14 Mojave support in the future.
+* AppleALC is becoming problemsome and periodically not working, so I replaced with the newest VoodooHDA 2.9.1.
+* Therefore, the speaker is not working but at least the headphone jack works.
+* Please tell me if you solved this problem!
 
 ## Main Information
 #### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
@@ -39,7 +42,7 @@
 * Ethernet: Intel Mausi Ethernet Controller
 * BlueTooth: OK
 * WebCamera: OK
-* Audio: OK
+* Audio: OK(Headphone)
 * Microphone: OK
 * AppleALC: OK
 * NVMe Controller: OK
