@@ -46,7 +46,7 @@
 * WebCamera: OK
 * Audio: OK(Headphone)
 * Microphone: OK
-* AppleALC: OK
+* ~~AppleALC: OK~~
 * NVMe Controller: OK
 * USB 3.0 bus: OK
 * Backlight Control: OK
