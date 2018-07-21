@@ -306,7 +306,7 @@
 		<key>DefaultVolume</key>
 		<string>Macintosh</string>
 		<key>HibernationFixup</key>
-		<true/>
+		<false/>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Secure</key>
@@ -428,6 +428,8 @@
 			<key>IntelGFX</key>
 			<string>0x19168086</string>
 		</dict>
+		<key>SetIntelBacklight</key>
+		<false/>
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
@@ -480,6 +482,8 @@
 		<array>
 			<string>Preboot</string>
 		</array>
+		<key>Language</key>
+		<string>en:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -496,6 +500,10 @@
 			<key>Tool</key>
 			<false/>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1920x1080</string>
+		<key>ShowOptimus</key>
+		<false/>
 		<key>Theme</key>
 		<string>Minimalism</string>
 	</dict>
