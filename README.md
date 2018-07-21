@@ -9,7 +9,7 @@
 * [20180721] Released a new [RELEASE](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.5-fix3) fixing the ethernet. All users are suggested to upgrade to this version.
 
 ## Warning
-* [WARNING] DO NOT USE FILEVAULT DURING INSTALLATION!!! 100% DISK BREAK AFTER REBOOT GUARANTEED.
+* DO NOT USE FILEVAULT DURING INSTALLATION!!! 100% DISK BREAK AFTER REBOOT GUARANTEED.
 
 ## Introduction
 #### This EFI configursation is capable for installing too. Replace the EFI folder in the Installation USB.
