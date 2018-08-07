@@ -3,9 +3,10 @@
 #### *FORK* the project to your own repository and clone it to your machine to make changes.
 #### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 #### *Current Clover Version of the Project: 4558*
-#### *Current macOS Version of the Project: 10.13.5*
+#### *Current macOS Version of the Project: 10.13.6*
 
 ## Update
+* [20180807] macOS 10.13.6 is a safe update and it also solves the brightness issue.
 * [20180721] Released a new [RELEASE](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.5-fix3) fixing the ethernet. All users are suggested to upgrade to this version.
 
 ## Warning
