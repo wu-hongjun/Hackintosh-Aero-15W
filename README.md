@@ -6,8 +6,9 @@
 #### *Current macOS Version of the Project: 10.13.6*
 
 ## Update
+* [20180830] I updated all kext to the newest version. Also changed AppleALC back to VoodooHDA. See [RELEASE](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.6-fix1) here.
 * [20180807] macOS 10.13.6 is a safe update and it also solves the brightness issue.
-* [20180721] Released a new [RELEASE](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.5-fix3) fixing the ethernet. All users are suggested to upgrade to this version.
+* [20180721] Released a release fixing the ethernet. All users are suggested to upgrade to this version.
 
 ## Warning
 * DO NOT USE FILEVAULT DURING INSTALLATION!!! 100% DISK BREAK AFTER REBOOT GUARANTEED.
@@ -20,7 +21,7 @@
 
 ## Announcements 
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
-* If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.pdf).*
+* If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.MD).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
 * Therefore, it is unlikely that I will support macOS 10.13.6. Instead, I will add macOS 10.14 Mojave support in the future.
 * AppleALC is becoming problemsome and periodically not working, so I replaced with the newest VoodooHDA 2.9.1.
