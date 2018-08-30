@@ -45,7 +45,7 @@
 				<key>AddDTGP</key>
 				<true/>
 				<key>AddHDMI</key>
-				<false/>
+				<true/>
 				<key>AddIMEI</key>
 				<true/>
 				<key>AddMCHC</key>
@@ -304,7 +304,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>DefaultVolume</key>
-		<string>Macintosh</string>
+		<string>LastBootedVolume</string>
 		<key>HibernationFixup</key>
 		<false/>
 		<key>NeverHibernate</key>
@@ -312,7 +312,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>-1</integer>
+		<integer>3</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
