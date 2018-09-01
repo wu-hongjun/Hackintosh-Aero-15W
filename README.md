@@ -35,6 +35,7 @@
 * [macOS 10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.12.6)
 * [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.13.1)
 * [macOS 10.13.5](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.5-fix2)
+* [macOS 10.13.6](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.6-fix2)
 ### Guide Link
 * [Link to this post in TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-w-hackintosh.245289/#post-1688701)
 * [How to install macOS via UniBeast](https://www.tonymacx86.com/threads/unibeast-install-macos-high-sierra-on-any-supported-intel-based-pc.235474/)
