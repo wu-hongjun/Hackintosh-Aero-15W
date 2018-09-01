@@ -45,7 +45,7 @@
 				<key>AddDTGP</key>
 				<true/>
 				<key>AddHDMI</key>
-				<true/>
+				<false/>
 				<key>AddIMEI</key>
 				<true/>
 				<key>AddMCHC</key>
@@ -303,16 +303,18 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
+		<key>Arguments</key>
+		<string>kext-dev-mode=1</string>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>Macintosh</string>
+		<key>Fast</key>
+		<true/>
 		<key>HibernationFixup</key>
-		<false/>
+		<true/>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Secure</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>3</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -419,7 +421,9 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>3</integer>
+			<string>Detect</string>
+			<key>ResetHDA</key>
+			<false/>
 		</dict>
 		<key>FakeID</key>
 		<dict>
@@ -577,7 +581,7 @@
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
-				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
 				<data>
 				AAAIAAAEAACYAAAAAQUJAAAEAAA=
@@ -587,7 +591,7 @@
 				<key>Comment</key>
 				<string>Enable Handoff GMYLE Bluetooth (Yosemite, Sierra)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				SIXAdFwPt0g=
@@ -665,7 +669,7 @@
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
-				<string>com.apple.driver.AirPort.BrcmNIC-MFG</string>
+				<string>AirPort.BrcmNIC-MFG</string>
 				<key>Replace</key>
 				<data>
 				gf9SqgAAZpA=
