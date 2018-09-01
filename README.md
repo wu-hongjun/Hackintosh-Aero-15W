@@ -11,8 +11,6 @@
 * [20180807] macOS 10.13.6 is a safe update and it also solves the brightness issue.
 * [20180721] Released a release fixing the ethernet. All users are suggested to upgrade to this version.
 
-## Warning
-* DO NOT USE FILEVAULT DURING INSTALLATION!!! 100% DISK BREAK AFTER REBOOT GUARANTEED.
 
 ## Introduction
 #### This EFI configursation is capable for installing too. Replace the EFI folder in the Installation USB.
@@ -20,7 +18,13 @@
 #### Or, if you are interested in the theme I used, check it out over here: [Minimalism](https://github.com/Errrneist/Hackintosh-Theme-Minimalism).
 #### Or, if you want to see how it looks like in System Information, you can check it out here: [SystemInfo](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/SystemInfo.txt).
 
-## Announcements 
+## Main Information
+#### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
+
+### Warning
+* DO NOT USE FILEVAULT DURING INSTALLATION!!! 100% DISK BREAK AFTER REBOOT GUARANTEED.
+
+### Announcements 
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
 * If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.MD).*
 * macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
@@ -29,8 +33,6 @@
 * Therefore, the speaker is not working but at least the headphone jack works.
 * Please tell me if you solved this problem!
 
-## Main Information
-#### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
 ### Quick Link
 * [macOS 10.12.6](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.12.6)
 * [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.13.1)
