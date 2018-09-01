@@ -6,7 +6,8 @@
 #### *Current macOS Version of the Project: 10.13.6*
 
 ## Update
-* [20180830] I updated all kext to the newest version. Also changed AppleALC back to VoodooHDA. See [RELEASE](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.6-fix1) here.
+* [20180901] I updated a [FIX](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.6-fix2) for 10.13.6 to skip the GUI while booting. Also has minor changes to file hierarchy.
+* [20180830] I updated all kext to the newest version. Also changed AppleALC back to VoodooHDA. 
 * [20180807] macOS 10.13.6 is a safe update and it also solves the brightness issue.
 * [20180721] Released a release fixing the ethernet. All users are suggested to upgrade to this version.
 
