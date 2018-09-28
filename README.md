@@ -6,7 +6,7 @@
 #### *Current macOS Version of the Project: 10.14.0*
 
 ## Update
-* [20180927] Official [macOS 10.14.0 support](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.14.0)!
+* [20180927] Official [macOS 10.14.0 support](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.14.0)! Also Brightness issue fixed as well!
 * [20180926] Upgrading to macOS 10.14.0 is a smooth upgrade from app store.
 * [20180901] I updated a FIX for 10.13.6 to skip the GUI while booting. Also has minor changes to file hierarchy.
 * [20180830] I updated all kext to the newest version. Also changed AppleALC back to VoodooHDA. 
