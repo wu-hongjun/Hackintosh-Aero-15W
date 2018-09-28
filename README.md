@@ -3,10 +3,12 @@
 #### *FORK* the project to your own repository and clone it to your machine to make changes.
 #### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 #### *Current Clover Version of the Project: 4558*
-#### *Current macOS Version of the Project: 10.13.6*
+#### *Current macOS Version of the Project: 10.14.0*
 
 ## Update
-* [20180901] I updated a [FIX](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.6-fix2) for 10.13.6 to skip the GUI while booting. Also has minor changes to file hierarchy.
+* [20180927] Official [macOS 10.14.0 support](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.14.0)!
+* [20180926] Upgrading to macOS 10.14.0 is a smooth upgrade from app store.
+* [20180901] I updated a FIX for 10.13.6 to skip the GUI while booting. Also has minor changes to file hierarchy.
 * [20180830] I updated all kext to the newest version. Also changed AppleALC back to VoodooHDA. 
 * [20180807] macOS 10.13.6 is a safe update and it also solves the brightness issue.
 * [20180721] Released a release fixing the ethernet. All users are suggested to upgrade to this version.
@@ -27,8 +29,6 @@
 ### Announcements 
 * Links below in the *Quick Link* section will navigate you to different macOS versions.
 * If you cannot mount EFI via [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/), then here is a *[Guide for mounting EFI using TERMINAL](https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/Mount%20EFI%20on%20macOS.MD).*
-* macOS 10.14 Mojave is coming soon! The official release is this fall. Super excited! Can't wait to see it happen!
-* Therefore, it is unlikely that I will support macOS 10.13.6. Instead, I will add macOS 10.14 Mojave support in the future.
 * AppleALC is becoming problemsome and periodically not working, so I replaced with the newest VoodooHDA 2.9.1.
 * Therefore, the speaker is not working but at least the headphone jack works.
 * Please tell me if you solved this problem!
@@ -38,6 +38,7 @@
 * [macOS 10.13.1](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/10.13.1)
 * [macOS 10.13.5](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.5-fix2)
 * [macOS 10.13.6](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.13.6-fix2)
+* [macOS 10.14.0](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.14.0)
 ### Guide Link
 * [Link to this post in TonyMacX86](https://www.tonymacx86.com/threads/gigabyte-aero-15-w-hackintosh.245289/#post-1688701)
 * [How to install macOS via UniBeast](https://www.tonymacx86.com/threads/unibeast-install-macos-high-sierra-on-any-supported-intel-based-pc.235474/)
