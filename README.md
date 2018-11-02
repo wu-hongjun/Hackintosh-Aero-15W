@@ -1,9 +1,8 @@
 # Hackintosh Configuration for Gigabyte Aero 15W
 #### Don't forget to star this project if you like it!
-#### *FORK* the project to your own repository and clone it to your machine to make changes.
-#### ACPI files are unique, so I strongly recommend you configure your own DSDT when your build is stable.
 #### *Current Clover Version of the Project: 4558*
 #### *Current macOS Version of the Project: 10.14.0*
+#### I sold this laptop so this project has ended. However, with Mojave support you should be good for a long time!
 
 ## Update
 * [20181027] Officially ending this project because I bought a Thinkpad X1E. Thank you for support!
