@@ -1,4 +1,5 @@
 # Hackintosh Configuration for Gigabyte Aero 15W
+> In my opinion, this hackintosh you guys made are still too young, sometimes naive. -- Zemin Jiang
 #### Don't forget to star this project if you like it!
 #### *Current Clover Version of the Project: 4558*
 #### *Current macOS Version of the Project: 10.14.0*
