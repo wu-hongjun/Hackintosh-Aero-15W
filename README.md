@@ -6,6 +6,7 @@
 #### I sold this laptop so this project has ended. However, with Mojave support you should be good for a long time!
 
 ## Update
+* [20190331] Dude thanks for your [tutorial](https://www.youtube.com/watch?v=f8vSkpW4pUw&feature=youtu.be) but I am not a professor just so you know.
 * [20181101] Officially ending this project because I bought a Thinkpad X1E. Thank you for support!
 * [20180927] Official [macOS 10.14.0 support](https://github.com/Errrneist/Hackintosh-Aero-15W/releases/tag/v10.14.0)! Also Brightness issue fixed as well!
 * [20180926] Upgrading to macOS 10.14.0 is a smooth upgrade from app store.
