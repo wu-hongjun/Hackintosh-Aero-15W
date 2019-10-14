@@ -4,7 +4,7 @@
 #### *Current Clover Version of the Project: 4558*
 #### *Current macOS Version of the Project: 10.14.0*
 #### I sold this laptop so this project has ended. However, with Mojave support you should be good for a long time!
-
+<img align="right" src="https://github.com/Errrneist/Hackintosh-Aero-15W/blob/master/IMG/critter.png" alt="Critter" width="250">
 ## Update
 * [20190331] This guy has a good [tutorial](https://www.youtube.com/watch?v=f8vSkpW4pUw&feature=youtu.be) but I am not a professor just so you know.
 * [20181101] Officially ending this project because I bought a Thinkpad X1E. Thank you for support!
