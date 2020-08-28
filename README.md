@@ -80,6 +80,11 @@
 * [TonyMacX86](https://www.tonymacx86.com)
 * [PCBeta](http://bbs.pcbeta.com/forum-558-1.html)
 
+## Donate
+* Donating to this project is optional as the intention of this project is build on each other's work and benefit everyone. 
+* However, if you would like to buy me a coffee, you can do that using QR codes (WechatPay/AliPay or Venmo).
+<img align="middle" src="https://github.com/Errrneist/Hackintosh-Razer-Blade-Advanced/blob/master/IMG/donate.png" alt="donate" width="800">
+
 ### Best, Errrneist.
 
 
